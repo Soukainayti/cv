@@ -1,0 +1,25 @@
+#Name { 
+    color: rgb(175, 38, 150);
+    border:5px solid #ab108e;
+    border-radius: 190px;
+    background: #fdc4eb;
+    padding: 5px;
+    margin: 5px;
+}
+#Function {
+    color: rgb(175, 38, 150);
+    border-radius: 190px;
+    background: #fdc4eb;
+    padding: 10px;
+    margin: 40px;
+}
+div, p { 
+    font-family: Helvetica;
+}
+#Infos, li {
+    display: inline;
+}
+.Mission {
+    width: 30%;
+    display: inline-block ;
+}
