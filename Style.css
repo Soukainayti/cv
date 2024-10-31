@@ -1,25 +1,38 @@
 #Name { 
-    color: rgb(175, 38, 150);
+    color: rgb(132, 11, 101);
     border:5px solid #ab108e;
     border-radius: 190px;
     background: #fdc4eb;
     padding: 5px;
     margin: 5px;
+    border: dashed;
 }
 #Function {
     color: rgb(175, 38, 150);
     border-radius: 190px;
-    background: #fdc4eb;
+    background: #efd1e5;
     padding: 10px;
-    margin: 40px;
+    
 }
-div, p { 
-    font-family: Helvetica;
+* { 
+    font-family: "Poppins", sans-serif;
 }
-#Infos, li {
+li {
     display: inline;
 }
 .Mission {
     width: 30%;
+    vertical-align: top;
     display: inline-block ;
+}
+
+ul.menu {
+    text-align: center;
+    color: rgb(175, 38, 150);
+    border-radius: 190px;
+    background: #fdc4eb;
+}
+
+li {
+    margin-right: 10px;
 }
